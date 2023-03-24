@@ -35,7 +35,7 @@ int main() {
 	
 	printf("\n\n Determinant of the 2by2 Matrix : %d\n\n",det);
 	
-	printf(" Inverse Martix ->\n\n");
+	printf(" Inverse Matrix ->\n\n");
 	
 	printf("	( 1/%d )", det);
 	
